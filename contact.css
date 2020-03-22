@@ -1,0 +1,91 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+}
+body
+{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(32, 28, 28);
+}
+
+.con{
+    margin-top: 20px;
+}
+h2{
+    
+    width: 500px;
+    height: 80px;
+    line-height: 80px;
+    background-color: aquamarine;
+    color: black;
+    font-size: 35px;
+    border-radius: 20px 30px;
+}
+.conn
+{
+    
+    margin-left: 7%;
+    margin-right: 7%;
+
+
+}
+.cont
+{
+    height: 275px;
+    width: 600px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 30px;
+    text-align: center;
+    border-radius: 15% 15%; 
+    border: 2px solid rgb(180, 20, 20);
+    background-color: rgb(151, 144, 144);
+}
+
+.cont img
+{
+    height: 200px;
+    width: 200px;
+    float: left;
+    border-radius: 50% 50%;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.p{
+    margin-top: 12%;
+    font-size: 25px;
+    color: rgb(3, 3, 3);
+    font-family: cursive;
+    font-weight: bold;
+}
+.cont p{
+    font-size: 18px;
+    color: rgb(39, 39, 38);
+    margin-top: -10px;
+}
+
+.cont p a{
+    text-decoration: none;
+    color: rgb(39, 39, 38);;
+}
+.cont p a:hover{
+    color: rgb(201, 201, 185);;
+}
+
+.foo a
+{   margin-bottom: 20px;
+    color: blanchedalmond;
+    font-size: 20px;
+    font-family: monospace;
+    text-decoration: none;
+}
+
+::-webkit-scrollbar
+{
+	width: 10px;
+}
+::-webkit-scrollbar-thumb{
+	background: linear-gradient(transparent,#30ff00);
+	border-radius: 5px;
+}
