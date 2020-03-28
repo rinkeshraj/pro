@@ -7,7 +7,7 @@
 }
 
 nav a{
-    color: blanchedalmond;
+    color: rgb(243, 236, 226);
     
 }
 nav a:hover{
@@ -20,7 +20,7 @@ nav a:hover{
 .navbar-nav li{
     color: white;
 	margin-left: 20px;
-	font-size: 20px;
+	/* font-size: 20px; */
 
 }
 body{
@@ -33,7 +33,7 @@ body{
 
 .navbar-brand{
 	/* color: rgb(20, 20, 20); */
-	font-size: 25px;
+	/* font-size: 25px; */
 	font-family: 'Times New Roman';
 }
 

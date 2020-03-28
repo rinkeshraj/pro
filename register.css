@@ -23,12 +23,12 @@ nav a:hover{
 }
 .navbar-nav li{
 	margin-left: 20px;
-	font-size: 20px;
+	/* font-size: 20px; */
 
 }
 .navbar-brand{
 	/* color: rgb(20, 20, 20); */
-	font-size: 25px;
+	/* font-size: 25px; */
 	font-family: 'Times New Roman';
 }
 .form-container
